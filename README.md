@@ -3,6 +3,7 @@
 
 This project is one of my course mideterm project, cooperated with my classmates Adam Kirstein. Thanks to our team effort! Hope you could enjor data analysis world :)
 
+
 1. Dataset Description & Data Source
 
 The dataset that we have chosen to use is an historical representation of consumed energy transition by country from 1800. 
@@ -23,3 +24,10 @@ All of the data were then compiled into a single dataset found at https://ourwor
 The first three columns of the data are Entity(country), Code, and Year. The remaining columns show “the shared of energy by source over the long-term, measured as the percentage of total energy consumption. Primary electricity includes: hydro power, nuclear power, wind, photovoltaics, tidal, wave, solar thermal and geothermal. (Only figures for electricity productions are included). Non-energy uses of oil and natural gas are excluded from the totals . 
 
 This data frame consists of 1816 observations of 11 variables (97 KB). 
+
+2. Questions we want to ask
+
+1) What is the long-term trend of Natural Gas, Oil and Coal ( non-renewables) consumption amongst countries? 
+2) What is the trend of Fuelwood consumption by Canada from 1800 -2000? 
+3) What percentage of human power in total energy consumption are used average in this time period for each country? 
+4) What is the coal consumption trend from 1800 in Spain? 
