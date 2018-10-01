@@ -1,9 +1,9 @@
 # Energy-Consumption
 
 
-This project is one of my course mideterm project, cooperated with my classmates Adam Kirstein. Thanks to our team effort!
+This project is one of my course mideterm project, cooperated with my classmates Adam Kirstein. Thanks to our team effort! Hope you could enjor data analysis world :)
 
-Dataset Description & Data Source
+1. Dataset Description & Data Source
 
 The dataset that we have chosen to use is an historical representation of consumed energy transition by country from 1800. 
 The dataset is broken into columns of various energy sources, such as fuelwood, and electricity, 
@@ -19,3 +19,7 @@ BP Statistical Review, The World Bank, and The International Renewable Energy Ag
 One method employed by The World Bank includes 
 sourcing related data from the Sustainable Energy for All (SE4ALL) database from the SE4ALL Global Tracking Framework. 
 All of the data were then compiled into a single dataset found at https://ourworldindata.org. 
+
+The first three columns of the data are Entity(country), Code, and Year. The remaining columns show “the shared of energy by source over the long-term, measured as the percentage of total energy consumption. Primary electricity includes: hydro power, nuclear power, wind, photovoltaics, tidal, wave, solar thermal and geothermal. (Only figures for electricity productions are included). Non-energy uses of oil and natural gas are excluded from the totals . 
+
+This data frame consists of 1816 observations of 11 variables (97 KB). 
