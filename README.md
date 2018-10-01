@@ -31,3 +31,6 @@ This data frame consists of 1816 observations of 11 variables (97 KB).
 2) What is the trend of Fuelwood consumption by Canada from 1800 -2000? 
 3) What percentage of human power in total energy consumption are used average in this time period for each country? 
 4) What is the coal consumption trend from 1800 in Spain? 
+
+All above questions have been solved in main_code file. We used R as analytic tool to do the data cleaning and analysis work.
+Feel free to check out!
