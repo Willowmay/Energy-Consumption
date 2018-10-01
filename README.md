@@ -32,5 +32,5 @@ This data frame consists of 1816 observations of 11 variables (97 KB).
 3) What percentage of human power in total energy consumption are used average in this time period for each country? 
 4) What is the coal consumption trend from 1800 in Spain? 
 
-All above questions have been solved in main_code file. We used R as analytic tool to do the data cleaning and analysis work.
+All above questions have been solved in main_code file, and vividly showed in our report. We use R as the analytic tool to do data cleaning, data integration and analysis work.
 Feel free to check out!
