@@ -1,7 +1,7 @@
 # Energy-Consumption
 
 
-This project is one of my course mideterm project, cooperated with my classmates Adam Kirstein. Thanks to our team effort! Hope you could enjor data analysis world :)
+This project is one of my course mideterm project, cooperated with my classmate Adam Kirstein. Thanks to our team effort! Hope you could enjor data analysis world :)
 
 
 1. Dataset Description & Data Source
